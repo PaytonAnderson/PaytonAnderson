@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **cloud technologies**
 
-- 👨‍💻 All of my projects are available at [https://payton-portfolio.vercel.app/](https://payton-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://payton-portfolio.vercel.app/](https://paytonanderson.github.io/payton-portfolio/)
 
 - 💬 Ask me about **react, supabase, next.js**
 
